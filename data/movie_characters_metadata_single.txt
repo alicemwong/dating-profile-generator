@@ -1,0 +1,12 @@
+u0 +++$+++ BIANCA +++$+++ m0 +++$+++ 10 things i hate about you +++$+++ f +++$+++ 4
+u1 +++$+++ BRUCE +++$+++ m0 +++$+++ 10 things i hate about you +++$+++ ? +++$+++ ?
+u2 +++$+++ CAMERON +++$+++ m0 +++$+++ 10 things i hate about you +++$+++ m +++$+++ 3
+u3 +++$+++ CHASTITY +++$+++ m0 +++$+++ 10 things i hate about you +++$+++ ? +++$+++ ?
+u4 +++$+++ JOEY +++$+++ m0 +++$+++ 10 things i hate about you +++$+++ m +++$+++ 6
+u5 +++$+++ KAT +++$+++ m0 +++$+++ 10 things i hate about you +++$+++ f +++$+++ 2
+u6 +++$+++ MANDELLA +++$+++ m0 +++$+++ 10 things i hate about you +++$+++ f +++$+++ 7
+u7 +++$+++ MICHAEL +++$+++ m0 +++$+++ 10 things i hate about you +++$+++ m +++$+++ 5
+u8 +++$+++ MISS PERKY +++$+++ m0 +++$+++ 10 things i hate about you +++$+++ ? +++$+++ ?
+u9 +++$+++ PATRICK +++$+++ m0 +++$+++ 10 things i hate about you +++$+++ m +++$+++ 1
+u10 +++$+++ SHARON +++$+++ m0 +++$+++ 10 things i hate about you +++$+++ ? +++$+++ ?
+u11 +++$+++ WALTER +++$+++ m0 +++$+++ 10 things i hate about you +++$+++ m +++$+++ 9
